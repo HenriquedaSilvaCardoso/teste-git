@@ -1,1 +1,3 @@
 O meu objetivo é fazer um aplicativo mobile com integração de inteligência artificial de algum modo
+
+Para poder realizar isso, seria legal estudar um pouco sobre AI e fazer a maior quantiade de projetos possíveis ao longo do curso, tanto na Proway quanto na Warren.
